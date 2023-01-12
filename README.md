@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://pramudithaDeSilva.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://pramudithaDeSilva.io)
+
 
 <h1 align="center">Hi 👋, I'm Pramuditha De Silva</h1>
 <h3 align="center">A passionate mobile app developer from Sri Lanka</h3>
