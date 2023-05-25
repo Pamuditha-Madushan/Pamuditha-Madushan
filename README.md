@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **flutter & react native**
 
-- 💬 Ask me about **react, & android**
+- 💬 Ask me about **react, & android (Java)**
 
 - 📫 How to reach me **pramudithadesilva00@gmail.com**
 
