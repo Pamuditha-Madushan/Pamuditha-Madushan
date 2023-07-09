@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramudithadesilva&label=Profile%20views&color=0e75b6&style=flat" alt="pramudithadesilva" /> </p>
 
-- 🔭 I’m currently working on **Fitness Web App**
+- 🔭 I’m currently working on **Fitness Admin Dashboard**
 
 - 🌱 I’m currently learning **flutter & react native**
 
