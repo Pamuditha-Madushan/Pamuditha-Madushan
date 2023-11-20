@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **flutter & react native**
 
-- 💬 Ask me about **react, & android (Java)**
+- 💬 Ask me about **Node js, & React js**
 
 - 📫 How to reach me **pramudithadesilva00@gmail.com**
 
-- ⚡ Fun fact **Something I can improve about myself is my programming skills, which is why I currently self study during everyday.**
+- ⚡ Fun fact **Something I can improve about myself is my programming skills, which is why I currently focusing on during everyday.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
