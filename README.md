@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://pramudithaDeSilva.io)
 
 
-<h1 align="center">Hi 👋, I'm Pramuditha De Silva</h1>
+<h1 align="center">Hi 👋, I'm Pamuditha Madushan</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/828/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Node js, & React js**
 
-- 📫 How to reach me **pramudithadesilva00@gmail.com**
+- 📫 How to reach me **pamuditha.madushan@zohomail.com**
 
-- ⚡ Fun fact **Something I can improve about myself is my programming skills, which is why I currently focusing on during everyday.**
+- ⚡ Fun fact **I love to do coding more than designing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
