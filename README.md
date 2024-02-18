@@ -5,17 +5,18 @@
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/828/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramudithadesilva&label=Profile%20views&color=0e75b6&style=flat" alt="pramudithadesilva" /> </p>
 
-- 🔭 I’m currently working on **Fitness Admin Dashboard**
+- 🔭 I’m currently working on **Mobile App**
 
 - 🌱 I’m currently learning **flutter & react native**
 
-- 💬 Ask me about **Node js, & React js**
+- 💬 Ask me about **Node js, & React**
 
 - 📫 How to reach me **pamuditha.madushan@zohomail.com**
 
-- ⚡ Fun fact **I love to do coding more than designing.**
+- ⚡ Fun fact **I love to fix bugs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
