@@ -5,8 +5,9 @@
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/828/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramudithadesilva&label=Profile%20views&color=0e75b6&style=flat" alt="pramudithadesilva" /> </p>
+-->
 
 - 🔭 I’m currently working on **Mobile App**
 
