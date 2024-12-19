@@ -9,9 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramudithadesilva&label=Profile%20views&color=0e75b6&style=flat" alt="pramudithadesilva" /> </p>
 -->
 
-- 🔭 I’m currently working on a **Web Application**
+- 🔭 I’m currently working on a **Web Application/s**
 
-- 🌱 I’m currently learning **Laravel Framework**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Node js, & React**
 
