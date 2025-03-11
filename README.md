@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on a **Web Application/s**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Nest JS**
 
 - 💬 Ask me about **Node js, & React**
 
